@@ -1,5 +1,7 @@
-var Number = 10;
+var number = 10;
 for(
-    10; 25; 
-);
-console.log(Number);
+    number; number>=1; number++ 
+);{
+    console.log(number);
+}
+
